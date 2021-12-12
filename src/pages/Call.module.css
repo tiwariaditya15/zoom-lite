@@ -1,0 +1,18 @@
+.gridTwo {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  color: #475569;
+  font-weight: bolder;
+  font-size: 1.4rem;
+  border-bottom: 1px solid #64748b;
+}
